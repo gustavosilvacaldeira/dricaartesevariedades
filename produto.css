@@ -1,0 +1,70 @@
+body{
+    background: url(./logo\ fundo.jpg)
+}
+
+.logo{
+    width: 800px;
+}
+
+header{
+    background-color: white;
+    padding: 20px 0;
+    
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 126px;
+    right: 0;
+
+}
+
+nav li{
+ display: inline;
+ margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+
+}
+
+
+.caixa-azul{
+    width: 250px;
+}
+
+.bonecas{
+    width: 250px;
+}
+
+.caixa-bonecas{
+    width: 250px;
+}
+
+.canecas{
+    width: 250px;
+}
+
+.caixa-marrom{
+    width: 250px;
+}
+
+.banner{
+    width: 100%;
+}
